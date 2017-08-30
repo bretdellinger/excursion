@@ -14,4 +14,20 @@ h1 .middle,
       .bottom {
   font-weight: 300;
   font-size: 42px;
+  color: white;
+}
+
+.middle p {
+  font-size: 21px
+  color: gray;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.botton p {
+  text-align: right;
+  color: gray;
 }
